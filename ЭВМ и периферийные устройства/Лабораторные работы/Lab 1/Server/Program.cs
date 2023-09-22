@@ -1,11 +1,6 @@
 ﻿using System.IO.Pipes;
 using System.Runtime.CompilerServices;
-
-public struct Structure
-{
-    public int num;
-    public bool flag;
-}
+using MySharedLibrary;
 
 class Server
 {
