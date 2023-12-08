@@ -1,6 +1,0 @@
-D:/lab-5/IntegralCalculatorLibrary/build/CMakeFiles/integral64.dir
-D:/lab-5/IntegralCalculatorLibrary/build/CMakeFiles/integral32.dir
-D:/lab-5/IntegralCalculatorLibrary/build/CMakeFiles/integral64_linux.dir
-D:/lab-5/IntegralCalculatorLibrary/build/CMakeFiles/integral32_linux.dir
-D:/lab-5/IntegralCalculatorLibrary/build/CMakeFiles/ALL_BUILD.dir
-D:/lab-5/IntegralCalculatorLibrary/build/CMakeFiles/ZERO_CHECK.dir
