@@ -1,7 +1,0 @@
-D:\lab-5\IntegralApp\bin\Release\net7.0\publish\maxlox\IntegralApp
-D:\lab-5\IntegralApp\bin\Release\net7.0\publish\maxlox\IntegralApp.dll
-D:\lab-5\IntegralApp\bin\Release\net7.0\publish\maxlox\IntegralApp.deps.json
-D:\lab-5\IntegralApp\bin\Release\net7.0\publish\maxlox\IntegralApp.runtimeconfig.json
-D:\lab-5\IntegralApp\bin\Release\net7.0\publish\maxlox\IntegralApp.pdb
-D:\lab-5\IntegralApp\bin\Release\net7.0\publish\maxlox\IntegralCalculatorLibrary.dll
-D:\lab-5\IntegralApp\bin\Release\net7.0\publish\maxlox\libintegral.so
