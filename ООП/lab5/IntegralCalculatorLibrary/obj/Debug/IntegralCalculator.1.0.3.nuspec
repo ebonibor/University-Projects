@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>IntegralCalculator</id>
+    <version>1.0.3</version>
+    <authors>Fuck</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Fuck this shit</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Development\C#\ООП\lab-5\IntegralCalculatorLibrary\bin\Debug\netstandard2.0\IntegralCalculatorLibrary.dll" target="lib\netstandard2.0\IntegralCalculatorLibrary.dll" />
+    <file src="C:\Development\C#\ООП\lab-5\integral.dll" target="runtimes\win-x64\native\integral.dll" />
+    <file src="C:\Development\C#\ООП\lab-5\integral.dll" target="runtimes\win-x86\native\integral.dll" />
+    <file src="C:\Development\C#\ООП\lab-5\integral.so" target="runtimes\linux-x64\native\integral.so" />
+    <file src="C:\Development\C#\ООП\lab-5\integral.so" target="runtimes\linux-x86\native\integral.so" />
+  </files>
+</package>

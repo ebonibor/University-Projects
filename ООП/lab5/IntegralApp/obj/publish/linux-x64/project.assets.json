@@ -1,0 +1,148 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "IntegralCalculator/1.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/IntegralCalculatorLibrary.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/IntegralCalculatorLibrary.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/libintegral.so": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x86/native/libintegral.so": {
+            "assetType": "native",
+            "rid": "linux-x86"
+          },
+          "runtimes/win-x64/native/libintegral.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x86/native/libintegral.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          }
+        }
+      }
+    },
+    "net7.0/linux-x64": {
+      "IntegralCalculator/1.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/IntegralCalculatorLibrary.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/IntegralCalculatorLibrary.dll": {}
+        },
+        "native": {
+          "runtimes/linux-x64/native/libintegral.so": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntegralCalculator/1.0.4": {
+      "sha512": "hZ7WRzM4Vb/RkvHP3iaNcYHuPNsiACkQk7UyU8BCZeeD1gPchJAVDo5tOHRUUnsfN265MN4XjHDYd3Z16VUl+A==",
+      "type": "package",
+      "path": "integralcalculator/1.0.4",
+      "files": [
+        ".nupkg.metadata",
+        "integralcalculator.1.0.4.nupkg.sha512",
+        "integralcalculator.nuspec",
+        "lib/net7.0/IntegralCalculatorLibrary.dll",
+        "runtimes/linux-x64/native/libintegral.so",
+        "runtimes/linux-x86/native/libintegral.so",
+        "runtimes/win-x64/native/libintegral.dll",
+        "runtimes/win-x86/native/libintegral.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "IntegralCalculator >= 1.0.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\danil\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\lab-5\\IntegralApp\\IntegralApp.csproj",
+      "projectName": "IntegralApp",
+      "projectPath": "D:\\lab-5\\IntegralApp\\IntegralApp.csproj",
+      "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
+      "outputPath": "D:\\lab-5\\IntegralApp\\obj\\publish\\linux-x64\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\danil\\Downloads": {},
+        "C:\\labs\\oop\\lab-5.0.1\\IntegralCalculatorLibrary\\bin\\Release": {},
+        "D:\\lab-5\\IntegralCalculatorLibrary\\bin\\Release": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "IntegralCalculator": {
+            "target": "Package",
+            "version": "[1.0.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[7.0.14, 7.0.14]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "linux-x64": {
+        "#import": []
+      }
+    }
+  }
+}

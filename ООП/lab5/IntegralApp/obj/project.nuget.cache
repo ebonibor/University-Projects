@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A4soddnSyjTXk3kClOZ/R47H7Jvrm+0OOqKuiOMFi3LfghzDW03H2m/hNo6OJz1/oea3v7b6X9Y95RDxVrT4mA==",
+  "success": true,
+  "projectFilePath": "D:\\lab-5\\IntegralApp\\IntegralApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danil\\.nuget\\packages\\integralcalculator\\1.0.5\\integralcalculator.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

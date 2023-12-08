@@ -1,0 +1,11 @@
+D:\lab-5\IntegralCalculatorLibrary\bin\Release\net7.0\IntegralCalculatorLibrary.deps.json
+D:\lab-5\IntegralCalculatorLibrary\bin\Release\net7.0\IntegralCalculatorLibrary.dll
+D:\lab-5\IntegralCalculatorLibrary\bin\Release\net7.0\IntegralCalculatorLibrary.pdb
+D:\lab-5\IntegralCalculatorLibrary\obj\Release\net7.0\IntegralCalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab-5\IntegralCalculatorLibrary\obj\Release\net7.0\IntegralCalculatorLibrary.AssemblyInfoInputs.cache
+D:\lab-5\IntegralCalculatorLibrary\obj\Release\net7.0\IntegralCalculatorLibrary.AssemblyInfo.cs
+D:\lab-5\IntegralCalculatorLibrary\obj\Release\net7.0\IntegralCalculatorLibrary.csproj.CoreCompileInputs.cache
+D:\lab-5\IntegralCalculatorLibrary\obj\Release\net7.0\IntegralCalculatorLibrary.dll
+D:\lab-5\IntegralCalculatorLibrary\obj\Release\net7.0\refint\IntegralCalculatorLibrary.dll
+D:\lab-5\IntegralCalculatorLibrary\obj\Release\net7.0\IntegralCalculatorLibrary.pdb
+D:\lab-5\IntegralCalculatorLibrary\obj\Release\net7.0\ref\IntegralCalculatorLibrary.dll

@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "IntegralApp/1.0.0": {
+        "dependencies": {
+          "IntegralCalculator": "1.0.5"
+        },
+        "runtime": {
+          "IntegralApp.dll": {}
+        }
+      },
+      "IntegralCalculator/1.0.5": {
+        "runtime": {
+          "lib/net7.0/IntegralCalculatorLibrary.dll": {
+            "assemblyVersion": "1.0.5.0",
+            "fileVersion": "1.0.5.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-arm/native/libintegral.so": {
+            "rid": "linux-arm",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-arm64/native/libintegral.so": {
+            "rid": "linux-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/libintegral.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x86/native/libintegral.so": {
+            "rid": "linux-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/libintegral.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/libintegral.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntegralApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IntegralCalculator/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/FcWJiA0arL0Unlt4RsfJOi5HcdqJ4iwnLwD3g7lUdvSGOd/Q6XERktVhWBE4wptPSg5X8Jn7EI975BRDpYKhQ==",
+      "path": "integralcalculator/1.0.5",
+      "hashPath": "integralcalculator.1.0.5.nupkg.sha512"
+    }
+  }
+}

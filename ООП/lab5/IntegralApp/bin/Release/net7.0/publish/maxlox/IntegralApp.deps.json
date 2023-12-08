@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0/linux-arm",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {},
+    ".NETCoreApp,Version=v7.0/linux-arm": {
+      "IntegralApp/1.0.0": {
+        "dependencies": {
+          "IntegralCalculator": "1.0.5"
+        },
+        "runtime": {
+          "IntegralApp.dll": {}
+        }
+      },
+      "IntegralCalculator/1.0.5": {
+        "runtime": {
+          "lib/net7.0/IntegralCalculatorLibrary.dll": {
+            "assemblyVersion": "1.0.5.0",
+            "fileVersion": "1.0.5.0"
+          }
+        },
+        "native": {
+          "runtimes/linux-arm/native/libintegral.so": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntegralApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IntegralCalculator/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/FcWJiA0arL0Unlt4RsfJOi5HcdqJ4iwnLwD3g7lUdvSGOd/Q6XERktVhWBE4wptPSg5X8Jn7EI975BRDpYKhQ==",
+      "path": "integralcalculator/1.0.5",
+      "hashPath": "integralcalculator.1.0.5.nupkg.sha512"
+    }
+  }
+}

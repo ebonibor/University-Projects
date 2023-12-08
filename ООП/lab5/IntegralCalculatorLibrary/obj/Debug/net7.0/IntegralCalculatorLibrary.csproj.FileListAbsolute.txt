@@ -1,0 +1,11 @@
+C:\Development\C#\ООП\lab-5\IntegralCalculatorLibrary\bin\Debug\net7.0\IntegralCalculatorLibrary.deps.json
+C:\Development\C#\ООП\lab-5\IntegralCalculatorLibrary\bin\Debug\net7.0\IntegralCalculatorLibrary.dll
+C:\Development\C#\ООП\lab-5\IntegralCalculatorLibrary\bin\Debug\net7.0\IntegralCalculatorLibrary.pdb
+C:\Development\C#\ООП\lab-5\IntegralCalculatorLibrary\obj\Debug\net7.0\IntegralCalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\C#\ООП\lab-5\IntegralCalculatorLibrary\obj\Debug\net7.0\IntegralCalculatorLibrary.AssemblyInfoInputs.cache
+C:\Development\C#\ООП\lab-5\IntegralCalculatorLibrary\obj\Debug\net7.0\IntegralCalculatorLibrary.AssemblyInfo.cs
+C:\Development\C#\ООП\lab-5\IntegralCalculatorLibrary\obj\Debug\net7.0\IntegralCalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Development\C#\ООП\lab-5\IntegralCalculatorLibrary\obj\Debug\net7.0\IntegralCalculatorLibrary.dll
+C:\Development\C#\ООП\lab-5\IntegralCalculatorLibrary\obj\Debug\net7.0\refint\IntegralCalculatorLibrary.dll
+C:\Development\C#\ООП\lab-5\IntegralCalculatorLibrary\obj\Debug\net7.0\IntegralCalculatorLibrary.pdb
+C:\Development\C#\ООП\lab-5\IntegralCalculatorLibrary\obj\Debug\net7.0\ref\IntegralCalculatorLibrary.dll

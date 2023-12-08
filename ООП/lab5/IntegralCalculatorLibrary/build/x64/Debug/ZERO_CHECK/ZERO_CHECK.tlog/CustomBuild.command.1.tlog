@@ -1,0 +1,10 @@
+^D:\LAB-5\INTEGRALCALCULATORLIBRARY\BUILD\CMAKEFILES\8186E7925F7763648752971A206DE583\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/lab-5/IntegralCalculatorLibrary -BD:/lab-5/IntegralCalculatorLibrary/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/lab-5/IntegralCalculatorLibrary/build/IntegralLibrary.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
